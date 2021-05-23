@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohammad tejabwla, You may know me as Mohammad Tej
+- 👋 Hi, I’m Mohammad Tejabwala, You may know me as Mohammad Tej
 - 👀 I’m interested in doing what I like to do
 - 🌱 I’m currently learning ICT(with minor CS)
 - 💞️ I’m looking to collaborate on some beginner level projects which can inspire and teach me to do something of my own
