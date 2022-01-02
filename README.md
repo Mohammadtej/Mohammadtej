@@ -16,5 +16,3 @@ You can click the Preview link to take a look at your changes.
 --->
 <hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohammadtej&show_icons=true&locale=en&theme=dark" alt="Mohammadtej" /></p>
-<hr>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mohammadtej" alt="Mohammadtej" /></a> </p>
